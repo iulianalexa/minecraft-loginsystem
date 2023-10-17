@@ -1,0 +1,8 @@
+name: LoginSystem
+author: [redacted]
+description: Generic login system
+main: com.[redacted].loginsystem.Main
+version: 1.0.0
+commands:
+    token:
+        description: Login using token.
